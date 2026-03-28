@@ -41,7 +41,9 @@ Compared to traditional baselines at epoch 200:
 
 ## Framework Architecture
 
-<img width="456" height="299" alt="image" src="https://github.com/user-attachments/assets/1a65ca37-232d-401e-a1c3-ff9fbadf8c5e" />
+<div align="center">
+  <img width="456" height="299" alt="image" src="https://github.com/user-attachments/assets/1a65ca37-232d-401e-a1c3-ff9fbadf8c5e" />
+</div>
 
 
 
