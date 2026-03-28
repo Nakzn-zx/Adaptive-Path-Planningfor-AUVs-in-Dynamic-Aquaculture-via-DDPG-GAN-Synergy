@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12.1-red)](https://pytorch.org/)
 
-> **Zixin Huang** | Dalian University of Technology | general@dlut.edu.cn
+> **Zixin Huang** | Dalian University of Technology 
 
 ---
 
